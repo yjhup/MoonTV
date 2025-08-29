@@ -84,6 +84,86 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "jiueguoyu": {
+      "api": "http://vod.9e03.com/lvdou_api.php/v1.vod",
+      "name": "9e国语"
+    },
+    "meijufan": {
+      "api": "http://ttzmz.net/api.php/v1.vod",
+      "name": "美剧范"
+    },
+    "meijuchong": {
+      "api": "https://meijuchong.com/api.php/v1.vod",
+      "name": "美剧虫"
+    },
+    "yidayingyuan": {
+      "api": "http://luobu.yss6080.com/mogai_api.php/v1.vod",
+      "name": "益达影院"
+    },
+    "damaoyingShi": {
+      "api": "http://app.ishen520.com/api.php/v1.vod",
+      "name": "大猫影视"
+    },
+    "yuyuyingshi": {
+      "api": "http://luobo.yugenye.site/api.php/v1.vod",
+      "name": "渔渔影视"
+    },
+    "tuziwo": {
+      "api": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod",
+      "name": "兔子窝"
+    },
+    "tanpingyingshi": {
+      "api": "http://www.lltpys.com/api.php/app/",
+      "name": "躺平影视"
+    },
+    "kan365": {
+      "api": "https://www.kan365.xyz/api.php/app/",
+      "name": "看365"
+    },
+    "beichuan": {
+      "api": "https://www.bcwzg.com/api.php/app/",
+      "name": "北川"
+    },
+    "zhongteyingshi": {
+      "api": "https://app.zteys.com/api.php/v1.vod",
+      "name": "钟特影视"
+    },
+    "tiankongv2": {
+      "api": "https://www.tkys.tv/xgapp.php/v2/",
+      "name": "天空V2"
+    },
+    "sanriyinyuan": {
+      "api": "https://www.3ri.net/api.php/v1.vod",
+      "name": "三日影院"
+    },
+    "shuangluyingyuan": {
+      "api": "http://cr.slidc.top/mubai_api.php/m2.vod",
+      "name": "双鹿影院"
+    },
+    "fenxiangshijie": {
+      "api": "http://42.157.129.15:34444/lvdou_api.php/v1.vod",
+      "name": "粉象视界"
+    },
+    "lanmaoyingshi": {
+      "api": "https://lanmao.lanmaoymw.cn/api.php/v1.vod",
+      "name": "懒猫影视"
+    },
+    "ali": {
+      "api": "http://aliys.cn:90/api.php/v1.vod",
+      "name": "阿里"
+    },
+    "qc": {
+      "api": "https://www.qcsvip.com/mogai_api.php/v1.vod",
+      "name": "QC"
+    },
+    "huanghe": {
+      "api": "http://i.ledu8.cn/api.php/v1.vod",
+      "name": "黄河"
+    },
+    "jikushipin": {
+      "api": "https://jiku.vip/mogai_api.php/v1.vod",
+      "name": "极酷视频"
     }
   }
 }

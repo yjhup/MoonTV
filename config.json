@@ -165,5 +165,69 @@
       "api": "https://jiku.vip/mogai_api.php/v1.vod",
       "name": "极酷视频"
     }
+"ruyi": {
+"api": "http://cj.rycjapi.com/api.php/provide/vod",
+"name": "如意资源"
+},
+"hongniu": {
+"api": "https://www.hongniuzy2.com/api.php/provide/vod",
+"name": "紅牛資源"
+},
+"shandian": {
+"api": "https://sdzyapi.com/api.php/provide/vod",
+"name": "閃電資源"
+},
+"jinying": {
+"api": "https://jyzyapi.com/provide/vod",
+"name": "金鹰资源"
+},
+"guangsu": {
+"api": "https://api.guangsuapi.com/api.php/provide/vod",
+"name": "光速资源"
+},
+"baidu": {
+"api": "https://api.apibdzy.com/api.php/provide/vod",
+"name": "百度资源"
+},
+"wuxian": {
+"api": "https://api.wuxianzy.net/api.php/provide/vod",
+"name": "无线资源网"
+},
+"fengchao": {
+"api": "https://api.fczy888.me/api.php/provide/vod",
+"name": "蜂巢片库"
+},
+"feifan": {
+"api": "https://cj.ffzyapi.com/api.php/provide/vod",
+"name": "非凡"
+},
+"youzhi": {
+"api": "https://api.1080zyku.com/inc/api.php/provide/vod",
+"name": "优质资源库"
+},
+"uku": {
+"api": "https://api.ukuapi.com/api.php/provide/vod",
+"name": "U酷资源"
+},
+"aidan": {
+"api": "https://lovedan.net/api.php/provide/vod",
+"name": "艾旦影视"
+},
+"senlin": {
+"api": "https://slapibf.com/api.php/provide/vod",
+"name": "森林资源"
+},
+"aosika": {
+"api": "https://aosikazy.com/api.php/provide/vod",
+"name": "奥斯卡资源网"
+},
+"cckimi": {
+"api": "https://cc.cckimi.top/api.php/provide/vod",
+"name": "cckimi资源"
+},
+"yun": {
+"api": "https://yun.html99.cn/api.php/provide/vod",
+"name": "云资源"
+}
   }
 }
